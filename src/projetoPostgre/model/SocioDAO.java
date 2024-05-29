@@ -28,5 +28,5 @@ public class SocioDAO {
         return false;
     }
 
-    // Aqui você pode adicionar métodos para outras operações relacionadas aos sócios, como adicionar, excluir, atualizar, etc.
+   
 }
